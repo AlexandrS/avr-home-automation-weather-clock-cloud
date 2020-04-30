@@ -22,10 +22,10 @@
 PROJECT_ID = "iot-weather-clock"
 IOT_CORE_REGION = "europe-west1"
 IOT_CORE_REGISTRY_ID = "weather-devices"
-IOT_CORE_DEVICE_ID = "d0123710B94CEB0ECFE"
+IOT_CORE_DEVICE_ID = "d01238DBB774F1E48FE"
 
 # Location to fetch data from. See yr.no for more information
-YR_LOCATION_URL = "https://www.yr.no/place/Norway/Tr%C3%B8ndelag/Trondheim/Trondheim/forecast.xml"
+YR_LOCATION_URL = "https://www.yr.no/place/United_Kingdom/England/London/forecast.xml"
 
 # The cloud storage bucket to store the cached data. See https://console.cloud.google.com/storage for more information
 CLOUD_STORAGE_BUCKET_ID = "weather-clock-cache"
